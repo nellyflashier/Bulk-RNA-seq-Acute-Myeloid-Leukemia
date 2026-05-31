@@ -1,7 +1,8 @@
 
 #_______0. Source Functions__________________________________________________ 
-source("C:/Users/nelly/Desktop/University of Glasgow/R/Further OMICS/functions.r")
-output_dir = output_dir = "C:/Users/nelly/Desktop/University of Glasgow/R/Further OMICS/P53_activation_AML/MDE"
+setwd("C:/Users/nelly/P53_activation_AML")
+output_dir = "C:/Users/nelly/P53_activation_AML/Beti_v_dmso" 
+source("C:/Users/nelly/functions.r")
 
 library(eulerr)
 library(org.Hs.eg.db)
