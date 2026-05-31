@@ -84,3 +84,4 @@ These findings support combination BETi and MDM2i as a therapeutic strategy in A
 ## Notes
 
 This dataset involves 4 experimental groups and 3 differential expression comparisons, making it a more complex multi-group RNA-seq analysis than a standard two-group design. The custom functions in `My DE functions.R` were written to handle this structure efficiently and are reusable across similar multi-group datasets.
+![Figure 1. RNA-seq analysis of treatment conditions](images/image.png) 
