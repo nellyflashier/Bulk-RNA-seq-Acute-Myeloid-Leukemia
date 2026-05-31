@@ -58,6 +58,12 @@ Bulk-RNA-seq-Acute-Myeloid-Leukemia/
 
 ---
 
+## Results
+
+![Figure 1. RNA-seq analysis of treatment conditions compared to DMSO controls. (A) PCA of normalized expression data coloured by treatment group. (B) Density plots of log10-transformed expression values across all 12 samples. (C) Sample correlation heatmap showing pairwise Spearman correlation coefficients. (D-F) Volcano plots for each treatment comparison with top differentially expressed genes labelled. (G-I) Heatmaps of scaled expression values for significant genes in each comparison.](images/image.png)
+
+---
+
 ## Key findings
 
 **MDM2 inhibition alone produced a limited but targeted transcriptional response**, with only 21 differentially expressed genes. Despite the small number, apoptotic signalling pathways were significantly enriched and key P53 target genes including CDKN1A and BAX were upregulated, suggesting partial P53 reactivation. The limited response likely reflects a known resistance mechanism in AML stem cells.
