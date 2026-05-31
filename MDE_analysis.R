@@ -1,7 +1,7 @@
 
 #_______0. Source Functions__________________________________________________ 
 setwd("C:/Users/nelly/P53_activation_AML")
-output_dir = "C:/Users/nelly/P53_activation_AML/Beti_v_dmso" 
+output_dir = "C:/Users/nelly/P53_activation_AML/MDE" 
 source("C:/Users/nelly/functions.r")
 
 library(eulerr)
