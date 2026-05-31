@@ -13,7 +13,7 @@
 
 
 #___0. CONFIGURATIONS - to be changed before running the script_________________
-setwd("C:/Users/nelly/Desktop/University of Glasgow/R/Further OMICS/P53_activation_AML")
+setwd("C:/Users/nelly/Desktop/P53_activation_AML")
 
 output_dir = "C:/Users/nelly/Desktop/University of Glasgow/R/Further OMICS/P53_activation_AML/Beti_v_dmso" 
 
