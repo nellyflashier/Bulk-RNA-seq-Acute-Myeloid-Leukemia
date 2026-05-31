@@ -1,6 +1,5 @@
 
 #_______0. Source Functions__________________________________________________ 
-setwd("C:/Users/nelly/P53_activation_AML")
 output_dir = "C:/Users/nelly/P53_activation_AML/MDE" 
 source("C:/Users/nelly/functions.r")
 
@@ -18,7 +17,7 @@ group_colors <- c("DMSO"  = "#B0BEC5",
 genes_of_interest = c("CDKN1A", "MDM2", "BBC3", "PMAIP1", "BAX", "NOXA")
 
 #______1. Load Files______________________________________________________________
-setwd("C:/Users/nelly/Desktop/University of Glasgow/R/Further OMICS/P53_activation_AML")
+setwd("C:/Users/nelly/P53_activation_AML")
 em = read.table("em.csv", header= TRUE, row.names=1,sep="\t")
 annotations = read.table("anno.csv", header= TRUE, row.names=1,sep="\t")
 ss = read.table("ss.csv", header= TRUE, row.names=1,sep="\t")
