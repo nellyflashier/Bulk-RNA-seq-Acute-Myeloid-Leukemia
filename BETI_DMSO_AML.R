@@ -13,11 +13,11 @@
 
 
 #___0. CONFIGURATIONS - to be changed before running the script_________________
-setwd("C:/Users/nelly/Desktop/P53_activation_AML")
+setwd("C:/Users/nelly/P53_activation_AML")
 
-output_dir = "C:/Users/nelly/Desktop/University of Glasgow/R/Further OMICS/P53_activation_AML/Beti_v_dmso" 
+output_dir = "C:/Users/nelly/P53_activation_AML/Beti_v_dmso" 
 
-source("C:/Users/nelly/Desktop/University of Glasgow/R/Further OMICS/functions.r")
+source("C:/Users/nelly/functions.r")
 
 
 # Group labels - must match values in sample_group column of sample sheet
